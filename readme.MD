@@ -1,11 +1,12 @@
 This repository has two solutions to the challenge "There are two-letter strings, "AA", "AB" and "BB", which appear AA, AB and BB times respectively." (it's completely described later)
 
 Usage:
-Clone the repository
 
-Install node (if not previously installed)
+1. Clone the repository
 
-Open a terminal and run: node <file_name> aa_number ab_number bb_number
+2. Install node (if not previously installed)
+
+3. Open a terminal and run: node <file_name> aa_number ab_number bb_number
 
 Example: node domino 1 2 4
 
