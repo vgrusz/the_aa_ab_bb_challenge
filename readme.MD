@@ -74,7 +74,7 @@ if not equal, the result will be (a combination of AABB as many time of minnor o
 
     a. All 0 lead to empty string and 0 length
 
-    b. 0 BB or 0 AA leads to all AB plus one AA or BB
+    b. 0 BB or 0 AA leads to all AB plus one AA or BB, 0 BB and 0 AA leads to all AB concatenated.
 
     c. As mentioned in first consideration, AB = 0 leads to some combination of AABB
 
