@@ -68,6 +68,7 @@ so, that leads to think about how AA and BB can be combined:
 
 If AA and BB are equal, the result will be AABB repeated as times as AA and BB exist.
 if not equal, the result will be (a combination of AABB as many time of minnor of them) with an BB at the beginning if there are more BB than AA, or a AA at the end if there are more BB than AA
+
 5. Edge cases:
     a. All 0 lead to empty string and 0 length
     b. 0 BB or 0 AA leads to all AB plus one AA or BB
