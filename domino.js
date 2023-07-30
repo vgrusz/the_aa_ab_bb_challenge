@@ -3,7 +3,7 @@ let max = ''
 const main = (aa, ab, bb) => {
     console.log(aa, ab, bb)
 
-    // Si todos están en cero es cero
+    // If all are 0, the result is 0
     if (aa === 0 && ab === 0 && bb === 0) max = ''
     else {
         // if there aren't AB only strings with AABB can be made,
